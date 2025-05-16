@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently working on some projects related to LLM, especially in generative AI.
 <!--
 **09takumi16/09takumi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
